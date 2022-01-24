@@ -8,7 +8,6 @@ import { OrderComponent } from './order/order.component';
 import { ServiceComponent } from './service/service.component';
 import { BillComponent } from './bill/bill.component';
 import { ApRoutingModule } from './app-routing.module';
- 
 
 
 @NgModule({
