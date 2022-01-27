@@ -1,28 +1,32 @@
+.nav-link {
+    color: black;
+}
 
-.nav-link{
+.nav-item {
+    width: 25%;
     color: black;
 }
-.icon-menu{
-    margin-top: 10px;
+
+.item-main {
     color: black;
-    font-size: 16px;
-    text-align: center;
 }
-.icon-order{
-    margin-top: 10px;
-    color: black;
-    font-size: 16px;
-    text-align: center;
+
+.nav .row {
+    width: 100%;
 }
-.icon-service{
-    margin-top: 10px;
-    color: black;
-    font-size: 16px;
-    text-align: center;
+
+.nav {
+    border-top: 1px solid rgb(187, 185, 185, 2);
+    border-bottom: 1px solid rgb(187, 185, 185, 2);
+    opacity: 0.8;
+    background: rgba(187, 185, 185, 0.7);
+    /* background-color: rgba(114, 113, 113, 0.5); */
+    padding: 10px;
+    margin: auto;
+    height: 10vh;
 }
-.icon-bill{
-    margin-top: 10px;
-    color: black;
-    font-size: 16px;
-    text-align: center;
+
+.card-body {
+    padding-bottom: 12vh;
+    padding-top: 11vh;
 }

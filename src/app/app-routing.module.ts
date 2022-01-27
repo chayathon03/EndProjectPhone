@@ -10,6 +10,7 @@ import { BillComponent } from './bill/bill.component';
  
 const routes:Routes =[
     {path:'index', component:IndexComponent},
+    {path:'',component:MenuComponent},
     {path:'menu',component:MenuComponent},
     {path:'order',component:OrderComponent},
     {path:'service',component:ServiceComponent},
