@@ -60,7 +60,7 @@
     height: 50px;
     border: 0;
 }
-
-.btn-center {
-    margin-left: 65px;
+.margin-auto{
+    margin: auto;
 }
+

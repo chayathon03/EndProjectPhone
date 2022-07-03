@@ -59,3 +59,10 @@
 .row{
     text-align: center;
 }
+.margin-buttom{
+    
+    margin-bottom: 20px;
+}
+.row-width{
+    height: 100%;
+}
